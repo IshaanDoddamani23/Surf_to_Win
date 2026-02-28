@@ -1,0 +1,25 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":1,"path":"folders/Objects.yy",},
+    {"name":"Sprite","order":3,"path":"folders/Sprite.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Object8","order":7,"path":"objects/Object8/Object8.yy",},
+    {"name":"oBoss","order":6,"path":"objects/oBoss/oBoss.yy",},
+    {"name":"oPortal","order":4,"path":"objects/oPortal/oPortal.yy",},
+    {"name":"oSlime","order":1,"path":"objects/oSlime/oSlime.yy",},
+    {"name":"oSolid","order":3,"path":"objects/oSolid/oSolid.yy",},
+    {"name":"oTree","order":2,"path":"objects/oTree/oTree.yy",},
+    {"name":"Level_2","order":2,"path":"rooms/Level_2/Level_2.yy",},
+    {"name":"Level_3","order":4,"path":"rooms/Level_3/Level_3.yy",},
+    {"name":"Level_4","order":5,"path":"rooms/Level_4/Level_4.yy",},
+    {"name":"Level_5","order":6,"path":"rooms/Level_5/Level_5.yy",},
+    {"name":"Loser","order":9,"path":"rooms/Loser/Loser.yy",},
+    {"name":"Winner","order":7,"path":"rooms/Winner/Winner.yy",},
+    {"name":"sBoss","order":4,"path":"sprites/sBoss/sBoss.yy",},
+    {"name":"sOrb","order":5,"path":"sprites/sOrb/sOrb.yy",},
+    {"name":"sPortal","order":3,"path":"sprites/sPortal/sPortal.yy",},
+    {"name":"sSlime","order":1,"path":"sprites/sSlime/sSlime.yy",},
+    {"name":"sTree","order":2,"path":"sprites/sTree/sTree.yy",},
+  ],
+}
